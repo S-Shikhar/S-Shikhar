@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @S-Shikhar
 - 👀 I’m interested in full-stack development
-- 🌱 I’m currently learning frontend development using figma and flutterFlow
+- 🌱 I’m currently learning frontend development using figma
 - 💞️ I’m looking to collaborate on new projects to learn more and develop my skills
 - 📫 How to reach me LinkedIN: https://www.linkedin.com/in/souharda-shikhar-biswas/
 
